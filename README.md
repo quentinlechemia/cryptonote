@@ -214,6 +214,13 @@ You may download them from:
 * http://www.boost.org/
 * Alternatively, it may be possible to install them using a package manager.
 
+```
+sudo apt-get install make
+sudo apt-get install cmake
+sudo apt-get install build-essential
+sudo apt-get install libboost-all-dev
+```
+
 To build, change to a directory where this file is located, and run `make`. The resulting executables can be found in `build/release/src`.
 
 **Advanced options:**
